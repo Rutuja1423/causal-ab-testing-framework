@@ -4,6 +4,21 @@
 [![Data Science](https://img.shields.io/badge/Data%20Science-A%2FB%20Testing-orange.svg)]()
 [![Causal Inference](https://img.shields.io/badge/Method-Causal%20Inference-success.svg)]()
 
+---
+
+## Visual Outputs
+
+### Conversion Lift
+![Conversion](assets/revenue_impact.png)
+
+### Causal Impact (Logistic Regression)
+![Odds Ratio](assets/odds_ratio_plot.png)
+
+### Segment Analysis (Device Type)
+![Device](assets/conversion_rate.png)
+
+---
+
 **Final Decision: [DO NOT LAUNCH]**
 
 > **Problem:** A "One-Click Checkout" flow was hypothesized to reduce friction and improve overall conversion rate.
