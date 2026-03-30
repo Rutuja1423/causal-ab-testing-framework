@@ -57,7 +57,7 @@ pytest tests/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/the-irritater/causal-ab-testing-framework.git
+   git clone https://github.com/Rutuja1423/causal-ab-testing-framework.git
    cd causal-ab-testing-framework
    ```
 
