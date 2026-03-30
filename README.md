@@ -97,4 +97,21 @@ pytest tests/
 
 ---
 
+Conclusion
+
+This project shows how experimentation should support product decisions in practice.
+
+Instead of stopping at statistical significance, the analysis connects the result to effect size, uncertainty, and projected business value. The final takeaway is simple: the new checkout flow shows strong evidence of improvement, and launch is supported by both statistical and commercial reasoning.
+
+---
+
+## Author
+
+**Rutuja Shinde**  
+MSc Statistics | Aspiring Data Analyst / Data Scientist  
+
+GitHub: https://github.com/Rutuja1423
+
+---
+
 _Created as a demonstration of advanced statistical analysis and business intelligence methodologies._
