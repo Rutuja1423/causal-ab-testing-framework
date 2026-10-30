@@ -108,7 +108,7 @@ Instead of stopping at statistical significance, the analysis connects the resul
 ## Author
 
 **Rutuja Shinde**  
-MSc Statistics | Aspiring Data Analyst / Data Scientist  
+MSc Statistics | Aspiring Data Analyst
 
 GitHub: https://github.com/Rutuja1423
 
